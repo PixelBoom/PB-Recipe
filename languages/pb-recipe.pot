@@ -1,0 +1,196 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PB Recipe\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Fri Jun 09 2018 01:59:11 GMT+0700 (SE Asia Standard Time)\n"
+"POT-Revision-Date: Fri Jun 09 2018 01:59:57 GMT+0700 (SE Asia Standard Time)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+
+#: ../includes/customize.php:53
+msgid "PB Recipe Settings"
+msgstr ""
+
+#: ../includes/customize.php:56
+msgid "Display"
+msgstr ""
+
+#: ../includes/customize.php:60
+msgid "Display Print Button?"
+msgstr ""
+
+#: ../includes/customize.php:64
+msgid "Print Button Text:"
+msgstr ""
+
+#: ../includes/customize.php:67
+msgid "\"Prep Time\" Label:"
+msgstr ""
+
+#: ../includes/customize.php:70
+msgid "\"Cook Time\" Label:"
+msgstr ""
+
+#: ../includes/customize.php:73
+msgid "\"Yield\" Label:"
+msgstr ""
+
+#: ../includes/customize.php:76
+msgid "\"Ingredients\" Label:"
+msgstr ""
+
+#: ../includes/customize.php:79
+msgid "\"Instructions\" Label:"
+msgstr ""
+
+#: ../includes/customize.php:82
+msgid "\"Notes\" Label:"
+msgstr ""
+
+#: ../includes/customize.php:86
+msgid "Colors"
+msgstr ""
+
+#: ../includes/customize.php:90
+msgid "Recipe Background Color"
+msgstr ""
+
+#: ../includes/customize.php:94
+msgid "Recipe Border Color"
+msgstr ""
+
+#: ../includes/customize.php:98
+msgid "Recipe Title Color"
+msgstr ""
+
+#: ../includes/customize.php:102
+msgid "\"Prep Time/Cook Time/Yield\" Color"
+msgstr ""
+
+#: ../includes/customize.php:106
+msgid "\"Ingredients/Instructions/Notes\" Title Color"
+msgstr ""
+
+#: ../includes/customize.php:110
+msgid "\"Ingredients\" Text Color"
+msgstr ""
+
+#: ../includes/customize.php:114
+msgid "\"Instructions\" Text Color"
+msgstr ""
+
+#: ../includes/customize.php:118
+msgid "\"Notes\" Text Color"
+msgstr ""
+
+#: ../includes/customize.php:122
+msgid "Print Button BG Color"
+msgstr ""
+
+#: ../includes/customize.php:125
+msgid "Print Button Text Color"
+msgstr ""
+
+#: ../includes/customize.php:128
+msgid "Print Button BG Hover Color"
+msgstr ""
+
+#: ../includes/customize.php:131
+msgid "Print Button Text Hover Color"
+msgstr ""
+
+#: ../includes/metabox.php:28
+msgid "PB Recipe Card"
+msgstr ""
+
+#: ../includes/metabox.php:105
+msgid "Display your Recipe using the following shortcode: "
+msgstr ""
+
+#: ../includes/metabox.php:109
+msgid "Recipe Title:"
+msgstr ""
+
+#: ../includes/metabox.php:115
+msgid "Prep Time:"
+msgstr ""
+
+#: ../includes/metabox.php:119
+msgid "Cook Time:"
+msgstr ""
+
+#: ../includes/metabox.php:125
+msgid "Yield:"
+msgstr ""
+
+#: ../includes/metabox.php:127
+msgid ""
+"The quality produced by the recipe, for example, number of people served, "
+"number of servings, etc ."
+msgstr ""
+
+#: ../includes/metabox.php:133
+msgid "Ingredients:"
+msgstr ""
+
+#: ../includes/metabox.php:134
+msgid ""
+"Please add the ingredients for your recipe below. Empty fields will be "
+"automatically removed on save. (Example: 1/2 Kg Potatoes)"
+msgstr ""
+
+#: ../includes/metabox.php:148
+msgid "+ Add an ingredient"
+msgstr ""
+
+#: ../includes/metabox.php:153
+msgid "Instructions:"
+msgstr ""
+
+#: ../includes/metabox.php:154
+msgid ""
+"Please add the steps for your recipe below. Empty fields will be "
+"automatically removed on save."
+msgstr ""
+
+#: ../includes/metabox.php:168
+msgid "+ Add an instruction"
+msgstr ""
+
+#: ../includes/metabox.php:173
+msgid "Recipe Notes:"
+msgstr ""
+
+#. Name of the plugin
+msgid "PB Recipe"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://www.pixelboom.net"
+msgstr ""
+
+#. Description of the plugin
+msgid "Create recipe in your WordPress posts."
+msgstr ""
+
+#. Author of the plugin
+msgid "PixelBoom"
+msgstr ""
+
+#: ../pb-recipe.php:103
+msgid "Settings"
+msgstr ""

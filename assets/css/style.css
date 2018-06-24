@@ -1,0 +1,48 @@
+/*
+Plugin Name: PB Recipe
+Plugin URI: http://www.pixelboom.net/
+Description: Create recipe in your WordPress posts.
+Author: PixelBoom
+Version: 1.0
+Author URI: http://www.pixelboom.net/
+*/
+.pb-recipe {
+	background-color: #fff;
+	padding: 1.75em 1.75em 1.5em;
+	border: 1px dashed #cccccc;
+	margin-top: 1.75em;
+	margin-bottom: 1.75em;
+}
+
+.pb-recipe ul,
+.pb-recipe ol {
+	padding-left: 1em;
+}
+
+.pb-recipe .pb-recipe-title {
+	margin-top: 0;
+}
+
+.pb-recipe-title,
+.pb-recipe-box-title {
+	color: #000000;
+}
+
+.pb-recipe-meta,
+.pb-recipe-ingredients .pb-recipe-box-content,
+.pb-recipe-instructions .pb-recipe-box-content,
+.pb-recipe-notes .pb-recipe-box-content {
+	color: #333333;
+}
+
+.pb-recipe-print-button button {
+	background-color: #000000;
+	color: #ffffff;
+	border: 0 !important;
+}
+
+.pb-recipe-print-button button:hover {
+	background-color: #ff0000;
+	color: #ffffff;
+	border: 0 !important;
+}
